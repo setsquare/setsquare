@@ -1,0 +1,6 @@
+source: .
+destination: ./_site
+encoding: utf-8
+
+show_drafts: nil
+safe: false
